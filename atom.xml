@@ -5,9 +5,9 @@
   <subtitle>I&#39;m Cicely Tong, Product Manager makes world better, Welcome to my personal blog.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.yangmiemie.site/"/>
+  <link href="https://blog.yangmiemie.site/"/>
   <updated>2019-04-13T11:08:21.032Z</updated>
-  <id>http://blog.yangmiemie.site/</id>
+  <id>https://blog.yangmiemie.site/</id>
   
   <author>
     <name>Cicely Tong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.yangmiemie.site/2019/04/13/hello-world/"/>
-    <id>http://blog.yangmiemie.site/2019/04/13/hello-world/</id>
+    <link href="https://blog.yangmiemie.site/2019/04/13/hello-world/"/>
+    <id>https://blog.yangmiemie.site/2019/04/13/hello-world/</id>
     <published>2019-04-13T11:08:21.032Z</published>
     <updated>2019-04-13T11:08:21.032Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>产品定位</title>
-    <link href="http://blog.yangmiemie.site/2018/02/03/%E4%BA%A7%E5%93%81%E5%AE%9A%E4%BD%8D/"/>
-    <id>http://blog.yangmiemie.site/2018/02/03/产品定位/</id>
+    <link href="https://blog.yangmiemie.site/2018/02/03/%E4%BA%A7%E5%93%81%E5%AE%9A%E4%BD%8D/"/>
+    <id>https://blog.yangmiemie.site/2018/02/03/产品定位/</id>
     <published>2018-02-03T11:51:39.000Z</published>
     <updated>2019-04-13T14:22:39.790Z</updated>
     
@@ -57,7 +57,7 @@
     </summary>
     
     
-      <category term="笔记" scheme="http://blog.yangmiemie.site/tags/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://blog.yangmiemie.site/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
